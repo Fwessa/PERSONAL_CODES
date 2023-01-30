@@ -1,0 +1,20 @@
+Notes:
+For registration, use regex that will check if the input data have this pattern in their email address.
+
+  @students
+  @faculty
+  @admin
+
+
+Plan
+
+First ask the user to select wether the user will sign in or register an account.
+  Next If the user picked Register go to register method
+       
+       Register method
+           
+           Input the following
+           
+          
+          
+            
